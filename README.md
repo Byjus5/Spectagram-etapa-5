@@ -1,2 +1,2 @@
-# Spectogram-stage-5
-project solution for c85
+# Spectagram-etapa-5
+solución del proyecto c85
